@@ -1,0 +1,14 @@
+A Note about DP
+
+DP is a optimisation technique
+For problems with 
+1. optimal substructure           (If the solutions can be built by the result of sub problems)  
+2. overlapping sub-problems
+
+Dp solutions can be
+    - Top Down (Recursion + memoisation)
+    - Bottom Up (Iterative)
+
+Bottom up approach is efficient than top Down
+But writing top down dp is easy
+

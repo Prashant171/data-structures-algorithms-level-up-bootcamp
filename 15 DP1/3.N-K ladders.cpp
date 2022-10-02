@@ -49,7 +49,7 @@ int ladder(int n, int k, int dp[]) {
     }
 
     //recursive case
-    int ans=0;i
+    int ans=0;
     for(int jump=0; jump<k; jump++) {
         ans+= ladder(n-jump, k, dp);
     }

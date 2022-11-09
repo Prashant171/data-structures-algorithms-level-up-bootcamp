@@ -1,0 +1,23 @@
+LLD (Low Level Design)
+
+- OOPs concept
+- Design patterns
+
+
+
+
+HLD (High Level Design)
+https://www.educative.io/blog/top-10-system-design-interview-questions
+
+- Basics about distributed design system
+
+- Examples like API Rate limiter, url shortener, chat service 
+
+    basically you need to list the 
+    - Requirements
+        - Functional requirements
+        - Non-functional requirements
+    - High-level design
+    - Common Problems
+)
+
